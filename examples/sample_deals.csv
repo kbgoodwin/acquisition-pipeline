@@ -1,0 +1,4 @@
+company_name,title,industry,city,state,description,asking_price,revenue,sde,customer_concentration,source_url,source_name
+Peach State Fulfillment,Atlanta 3PL and Fulfillment Company,3PL Fulfillment,Atlanta,GA,"Warehouse, pick-pack, recurring ecommerce fulfillment, back office and customer service can be systematized.",1450000,3200000,410000,0.18,https://example.com/peach-state,example
+Central Valley Courier,Central California Final Mile Courier,Final Mile Delivery,Fresno,CA,"Route density, dispatch, recurring commercial accounts, owner wants transition.",950000,1800000,325000,0.22,https://example.com/central-valley,example
+Main Street Cafe,Neighborhood Restaurant,Restaurant,Macon,GA,"Retail restaurant with daily owner presence.",700000,1200000,180000,0.10,https://example.com/cafe,example

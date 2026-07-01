@@ -1,0 +1,9 @@
+[project]
+name = "acquisition-os"
+version = "0.1.0"
+description = "Local command-line operating system for sourcing, evaluating, and managing small business acquisitions."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+acq = "acquisition_os.cli:main"
